@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wztZK4+7uaXJQGL/bVSCcaumTZg5eqPxTzvIxcg/7DiIoHJXFH0Y6D/+zfE1VjL4R2UiOx1fChKbMisV3zOpdA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\T-GAMER\\source\\repos\\DowloadYoutubeVideo\\DowloadYoutubeVideo\\DowloadYoutubeVideo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\T-GAMER\\.nuget\\packages\\anglesharp\\1.0.7\\anglesharp.1.0.7.nupkg.sha512",
+    "C:\\Users\\T-GAMER\\.nuget\\packages\\system.text.encoding.codepages\\8.0.0\\system.text.encoding.codepages.8.0.0.nupkg.sha512",
+    "C:\\Users\\T-GAMER\\.nuget\\packages\\youtubeexplode\\6.3.13\\youtubeexplode.6.3.13.nupkg.sha512"
+  ],
+  "logs": []
+}
