@@ -4,4 +4,4 @@ This console application is made with C# and .NET 8.0. It is very simple; the us
 
 ## How to Run
 
-You need the .NET 6.0 SDK or a higher version installed on your computer. Clone this repository and access the folder; after that, use the command: `dotnet run`.
+You need the .NET 6.0 SDK or a higher version installed on your computer. Clone this repository and access the folder; after that, use the command:`dotnet build`, and `dotnet run`.
